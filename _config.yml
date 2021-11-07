@@ -1,5 +1,5 @@
 # Site settings
-title: Chen Ge
+title: George Chen
 description: 'A coding enthusiast. When I owned a 286 computer in 1995, coding has become an important part of my life. '
 url: 'https://chenge.dev'
 baseurl: ''
@@ -8,7 +8,7 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'Chen Ge'
+  name: 'George Chen'
   email: fobgeorge@msn.com
   # twitter_username: fobgeorge
   facebook_username: fobgeorge
