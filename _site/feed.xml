@@ -3,10 +3,10 @@
   <channel>
     <title>Chen Ge</title>
     <description>A coding enthusiast. Since 1995, when I owned a 286 computer, coding has become an important part of my life. </description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 07 Nov 2021 11:26:41 +0800</pubDate>
-    <lastBuildDate>Sun, 07 Nov 2021 11:26:41 +0800</lastBuildDate>
+    <link>http://chenge.dev/</link>
+    <atom:link href="http://chenge.dev/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 07 Nov 2021 11:38:37 +0800</pubDate>
+    <lastBuildDate>Sun, 07 Nov 2021 11:38:37 +0800</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Fri, 08 Jan 2016 23:04:23 +0800</pubDate>
-        <link>http://localhost:4000/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/welcome-to-jekyll/</guid>
+        <link>http://chenge.dev/2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://chenge.dev/2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
