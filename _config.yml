@@ -1,8 +1,8 @@
 # Site settings
 title: Chen Ge
 description: 'A coding enthusiast. Since 1995, when I owned a 286 computer, coding has become an important part of my life. '
-url: 'https://chenge.dev/blog'
-baseurl: '/blog'
+url: 'https://chenge.dev'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
