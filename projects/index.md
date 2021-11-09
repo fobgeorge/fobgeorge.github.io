@@ -3,4 +3,4 @@ layout: default
 robots: noindex
 ---
 
-projects 
+projects index
