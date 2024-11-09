@@ -1,5 +1,5 @@
 # Site settings
-title: George Chen
+title: Chen Ge
 description: '30年的业余编程爱好者<br/>C#,Python,Java,Javascript'
 url: 'https://chenge.dev'
 baseurl: ''
@@ -8,7 +8,7 @@ baseurl: ''
 # disable_landing_page: true
 
 author:
-  name: 'George Chen'
+  name: 'Chen Ge'
   email: fobgeorge@msn.com
   # twitter_username: fobgeorge
   facebook_username: fobgeorge
