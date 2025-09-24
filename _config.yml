@@ -1,6 +1,6 @@
 # Site settings
 title: Chen Ge
-description: '30年的业余编程爱好者<br/>C#,Python,Java,Javascript'
+description: '30年的业余编程爱好者<br/>C#,Python,Golang,Javascript'
 url: 'https://chenge.dev'
 baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
